@@ -7,3 +7,8 @@ total = item_one + \
    item_three
 
 print(total)
+
+
+#The statements contained within the [], {}, or () brackets do not need to use the line continuation character '\'.
+# For example −
+#days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
