@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c40bf0e-a534-48b4-a4db-5bd2e9063474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command-line-arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comments-in-python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple-statement-groups-as-suites.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple-statements-on-a-single-line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-identifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quotation-in-python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reserved-words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/waiting-for-the-user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-line Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/multi-line Statements.py" afterDir="false" />
-    </list>
+    <list default="true" id="9c40bf0e-a534-48b4-a4db-5bd2e9063474" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
