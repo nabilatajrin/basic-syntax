@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c40bf0e-a534-48b4-a4db-5bd2e9063474" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/input-output-02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input-output.py" beforeDir="false" afterPath="$PROJECT_DIR$/input-output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input-output.py" beforeDir="false" afterPath="$PROJECT_DIR$/input-output-01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +36,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.input-output">
-    <configuration name="input-output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.input-output-02">
+    <configuration name="input-output-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic-syntax" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +49,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input-output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input-output-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="input-output-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic-syntax" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input-output-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.input-output" />
+        <item itemvalue="Python.input-output-02" />
+        <item itemvalue="Python.input-output-01" />
         <item itemvalue="Python.multi-line Statements" />
         <item itemvalue="Python.multiple-statements-on-a-single-line" />
         <item itemvalue="Python.waiting-for-the-user" />
@@ -159,22 +182,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="140" width="424" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579409931574" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1583561787315">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1583567305271">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583561787315" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1583561787315">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583567305271" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1583567305270">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583561787315" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1583561787314">
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583567305270" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1583567305270">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583561787314" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1583561787315">
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583567305270" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1583567305270">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583561787315" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583567305270" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1583558464780">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
