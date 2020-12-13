@@ -1,2 +1,2 @@
 # basic-syntax
-This repository contains some basic syntax programs using Python.
+This repository contains some basic programs of syntax using Python.
