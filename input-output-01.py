@@ -1,6 +1,5 @@
 x = 1
 str_x = str(x)
-
 print("My fav numb is ", x, ". ", "x = ", x)
 
 #can only concatenate str (not "int") to str
